@@ -2,7 +2,9 @@
 _Code Fellows Instructor_
 
 GitHub: [brookr](http://github.com/brookr)
+
 Twitter: [brookr](http://twitter.com/brookr)
+
 LinkedIn: [brookr](http://linkedin.com/in/brookr)
 
 I look something like this:
