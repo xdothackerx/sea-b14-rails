@@ -5,5 +5,4 @@ describe "rails app welcome page" do
 		visit "http://localhost:3000"
 		page.text.must_include "Welcome aboard"
 	end
-	
 end
