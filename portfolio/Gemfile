@@ -13,8 +13,9 @@ group :doc do
   gem 'sdoc', '~> 0.4.0' # bundle exec rake doc:rails generates the API under doc/api.
 end
 
-group :test do
 gem 'minitest-rails'
+
+group :test do
 gem 'minitest-rails-capybara'
 end
 
