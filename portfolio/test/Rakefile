@@ -1,0 +1,8 @@
+require 'rake/testtask'
+
+task default: 'test'
+
+Rake::TestTask.new do |t|
+  t.libs << "features"
+  t.pattern = "features/**/*_spec.rb"
+end
